@@ -10,6 +10,7 @@ import Blog from "./Blog"
 import FAQ from "./FAQ"
 import FancyBannerTwo from "./FancyBannerTwo"
 import HeaderTwo from "@/layouts/headers/HeaderTwo"
+import { FounderSpotlight } from "@/components/ui/founder-spotlight"
 
 const HomeTwo = () => {
   return (
@@ -22,6 +23,7 @@ const HomeTwo = () => {
       <FancyBannerOne />
       <BLockFeatureTwo />
       <FeedbackTwo />
+      <FounderSpotlight />
       <Blog style={false} />
       <FAQ />
       <FancyBannerTwo/>

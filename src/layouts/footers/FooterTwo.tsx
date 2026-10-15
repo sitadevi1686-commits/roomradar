@@ -21,9 +21,9 @@ interface ContentType {
 const footer_content: ContentType = {
    title: "Our Newsletter",
    desc_1: "Get instant news by subscribe to our newsletter",
-   desc_2: "11910 Cairo Suite 210, Kafralshakh , Cairo, Egypt",
-   email: "Emile@gmail.com",
-   number: "+210 0000-0000",
+   desc_2: "Suite 500, Innovation Way, Tech Park, San Francisco, CA 94107",
+   email: "contact@roomradar.com",
+   number: "+1 (800) 555-7666",
    icon: ["facebook-f", "twitter", "instagram"],
 }
 

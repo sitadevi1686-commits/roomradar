@@ -21,9 +21,9 @@ const SidebarInfo = () => {
          <div className="divider-line mt-40 mb-45 pt-20">
             <ul className="style-none">
                <li>Location: <span>Spain, Barcelona</span></li>
-               <li>Email: <span><Link href="mailto:Email@gmail.com">Email@gmail.com</Link></span>
+               <li>Email: <span><Link href="mailto:contact@roomradar.com">contact@roomradar.com</Link></span>
                </li>
-               <li>Phone: <span><Link href="tel:+21000000000">+2100 000 0000</Link></span></li>
+               <li>Phone: <span><Link href="tel:+18005557666">+1 (800) 555-7666</Link></span></li>
             </ul>
          </div>
          <Link href="/contact" className="btn-nine text-uppercase rounded-3 w-100 mb-10">CONTACT AGENT</Link>

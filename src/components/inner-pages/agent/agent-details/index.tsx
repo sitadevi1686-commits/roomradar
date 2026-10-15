@@ -8,7 +8,7 @@ const AgentDetails = () => {
    return (
       <>
          <HeaderFour />
-         <BreadcrumbThree title="Agent Details" link="agent" link_title="Agent" sub_title="Mathews Firlo" style={false} />
+         <BreadcrumbThree title="Agent Details" link="agent" link_title="Agent" sub_title="Harmanpreet Singh" style={false} />
          <AgencyDetailsArea style={true} />
          <FancyBanner />
          <FooterFour />

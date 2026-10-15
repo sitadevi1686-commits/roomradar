@@ -23,7 +23,7 @@ const FooterOne = ({ style }: any) => {
                                  <Image src={style ? footerLogo_2 : footerLogo_1} alt="" />
                               </Link>
                            </div>
-                           <p className="mb-60 lg-mb-40 md-mb-20">11910 Cairo Suite 210, Kafralshakh , Cairo, Egypt</p>
+                           <p className="mb-60 lg-mb-40 md-mb-20">Suite 500, Innovation Way, Tech Park, San Francisco, CA 94107</p>
                            <h6>CONTACT</h6>
                            <Link href="#" className={`email tran3s mb-70 lg-mb-50 ${style ? "font-garamond" : "fs-24 text-decoration-underline"}`}>contact@roomradar.com</Link>
                            <ul className="style-none d-flex align-items-center social-icon">

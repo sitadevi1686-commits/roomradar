@@ -8,7 +8,7 @@ const AgencyDetails = () => {
    return (
       <>
          <HeaderFour />
-         <BreadcrumbThree title="Agency Details" link="agency" link_title="Agency" sub_title="Rainbow Housing" style={false} />
+         <BreadcrumbThree title="Agency Details" link="agency" link_title="Agency" sub_title="Room Radar Agency" style={false} />
          <AgencyDetailsArea style={false} />
          <FancyBanner />
          <FooterFour />

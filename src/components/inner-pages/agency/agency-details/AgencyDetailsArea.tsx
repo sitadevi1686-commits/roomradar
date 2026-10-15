@@ -28,14 +28,14 @@ interface ContentType {
 }
 
 const agency_details_content: ContentType = {
-   title_1: "Rainbow Housing",
-   title_2: "Mathews Firlo.",
+   title_1: "Room Radar Premier Agency",
+   title_2: "Harmanpreet Singh",
    desc_1: "8210 Preston Rd. Inglewood",
-   desc_4: "Sales & Broker",
-   table_data: [{ table_td_1: "Location", table_td_2: "Maine, USA" }, { table_td_1: "Phone:", table_td_2: "+210 000 00 000" }, { table_td_1: "Email", table_td_2: "rain@demo.com" }, { table_td_1: "Website:", table_td_2: "www.rainbowinc.com" },],
-   table_data_2: [{ table_td_1: "Location", table_td_2: "Spain, Barcelona" }, { table_td_1: "Phone:", table_td_2: "+210 000 00 000" }, { table_td_1: "Email", table_td_2: "mar@support.com" }, { table_td_1: "Qualification:", table_td_2: "Master Degree" },],
+   desc_4: "Founder & CEO, Room Radar",
+   table_data: [{ table_td_1: "Location", table_td_2: "Maine, USA" }, { table_td_1: "Phone:", table_td_2: "+1 (800) 555-7666" }, { table_td_1: "Email", table_td_2: "contact@roomradar.com" }, { table_td_1: "Website:", table_td_2: "www.roomradar.com" },],
+   table_data_2: [{ table_td_1: "Location", table_td_2: "Spain, Barcelona" }, { table_td_1: "Phone:", table_td_2: "+1 (800) 555-7666" }, { table_td_1: "Email", table_td_2: "contact@roomradar.com" }, { table_td_1: "Qualification:", table_td_2: "Master Degree" },],
    icon: ["whatsapp", "x-twitter", "instagram", "viber"],
-   desc_2: (<>Before establishing Beratung in 2001, Mathew founded Silicon Valley internet companies and later held management roles at Salomon in New York.</>),
+   desc_2: (<>Before establishing Room Radar, Harmanpreet Singh founded innovative technological ventures and spearheaded modern AI-assisted real estate platforms.</>),
    desc_3: (<>Risk management and compliance, when approached strategically, have the potential to go beyond mitigating threats and protecting a company’s operations & reputation.They can actually generate value and create opportunities.</>),
 }
 

@@ -16,14 +16,14 @@ const address_data: DataType[] = [
    {
       id: 1,
       title: "We’r always happy to help.",
-      address_1: "ask@gmail.com"
+      address_1: "contact@roomradar.com"
    },
    {
       id: 2,
       class_name: "skew-line",
       title: "Our hotline number",
-      address_1: "+210 0000 0000,",
-      address_2: "+210 0000 0000",
+      address_1: "+1 (800) 555-ROOM,",
+      address_2: "+1 (800) 555-7666",
    },
    {
       id: 3,

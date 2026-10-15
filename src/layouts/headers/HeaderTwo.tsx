@@ -48,7 +48,7 @@ const HeaderTwo = ({ style_1, style_2 }: any) => {
                               </li></>) : (<>
                                  <li className="d-none d-md-flex align-items-center login-btn-one me-4 me-xxl-5">
                                     <i className="fa-regular fa-phone-volume"></i>
-                                    <Link href="tel:+210-0000-0000" className="tran3s">+210-0000-0000</Link>
+                                    <Link href="tel:+1 (800) 555-7666" className="tran3s">+1 (800) 555-7666</Link>
                                  </li>
                                  <li>
                                     <Link href="#" data-bs-toggle="modal" data-bs-target="#loginModal" className="login-btn-two rounded-circle tran3s d-flex align-items-center justify-content-center"><i className="fa-regular fa-lock"></i></Link>
