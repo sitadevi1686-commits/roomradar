@@ -2,7 +2,7 @@ import BlogDetails from "@/components/blogs/blog-details";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Blog Details HOZN - Real Estate React Next js",
+   title: "Blog Details Room Radar - Real Estate Platform",
 };
 const index = () => {
    return (

@@ -2,7 +2,7 @@ import ProjectFour from "@/components/inner-pages/projects/project-four";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Project Four HOZN - Real Estate React Next js ",
+   title: "Project Four Room Radar - Real Estate Platform",
 };
 const index = () => {
    return (

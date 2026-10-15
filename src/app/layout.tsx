@@ -15,10 +15,11 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning={isDev}>
       <head>
         <meta name="keywords" content="Real estate, Property sale, Property buy" />
-        <meta name="description" content="HOZN is a beautiful website designed for Real Estate Agency." />
-        <meta property="og:site_name" content="HOZN" />
+        <meta name="description" content="Room Radar is a premier real estate platform designed to help you discover, buy, and rent homes effortlessly." />
+        <meta property="og:site_name" content="Room Radar" />
+        <meta name="author" content="Harmanpreet Singh" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="HOZN - Real Estate React Next js" />
+        <meta property="og:title" content="Room Radar - Real Estate Platform" />
         <meta name='og:image' content='images/assets/ogg.png' />
         {/* For IE  */}
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />

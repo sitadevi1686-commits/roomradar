@@ -1,13 +1,13 @@
 {
-  "name": "real-estate-backend",
+  "name": "room-radar-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "description": "",
+  "author": "Harmanpreet Singh <contact@roomradar.com>",
+  "description": "Room Radar Backend API Services",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^3.0.2",

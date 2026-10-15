@@ -2,7 +2,7 @@
 import Wrapper from "@/layouts/Wrapper";
 import HomeTwo from "@/components/homes/home-two";
 export const metadata = {
-  title: "HOZN - Real Estate React Next js",
+  title: "Room Radar - Modern Real Estate & Rental Platform",
 };
 const index = () => {
   return (

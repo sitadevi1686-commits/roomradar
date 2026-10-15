@@ -19,8 +19,8 @@ const agent_data: DataType[] = [
       id: 1,
       page: "home_1",
       thumb: agentThumb_1,
-      title: "Mark Filo",
-      desc: "CEO & Founder",
+      title: "Harmanpreet Singh",
+      desc: "Founder & CEO",
    },
    {
       id: 2,

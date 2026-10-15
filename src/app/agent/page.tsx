@@ -2,7 +2,7 @@ import Agent from "@/components/inner-pages/agent/agent";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Agent HOZN - Real Estate React Next js",
+   title: "Agent Room Radar - Real Estate Platform",
 };
 const index = () => {
    return (

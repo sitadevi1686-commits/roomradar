@@ -32,7 +32,7 @@ const inner_agent_data: DataType[] = [
       id: 2,
       thumb: agentThumb_2,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -59,7 +59,7 @@ const inner_agent_data: DataType[] = [
       id: 6,
       thumb: agentThumb_6,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -86,7 +86,7 @@ const inner_agent_data: DataType[] = [
       id: 10,
       thumb: agentThumb_10,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -113,7 +113,7 @@ const inner_agent_data: DataType[] = [
       id: 14,
       thumb: agentThumb_10,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -140,7 +140,7 @@ const inner_agent_data: DataType[] = [
       id: 18,
       thumb: agentThumb_6,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -167,7 +167,7 @@ const inner_agent_data: DataType[] = [
       id: 22,
       thumb: agentThumb_2,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -194,7 +194,7 @@ const inner_agent_data: DataType[] = [
       id: 26,
       thumb: agentThumb_6,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -221,7 +221,7 @@ const inner_agent_data: DataType[] = [
       id: 30,
       thumb: agentThumb_2,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -248,7 +248,7 @@ const inner_agent_data: DataType[] = [
       id: 34,
       thumb: agentThumb_2,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -275,7 +275,7 @@ const inner_agent_data: DataType[] = [
       id: 38,
       thumb: agentThumb_6,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -302,7 +302,7 @@ const inner_agent_data: DataType[] = [
       id: 42,
       thumb: agentThumb_10,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {
@@ -330,7 +330,7 @@ const inner_agent_data: DataType[] = [
       id: 46,
       thumb: agentThumb_6,
       tag: "3 Listing",
-      title: "Mark Filo",
+      title: "Harmanpreet Singh",
       data_delay_time: "0.1s",
    },
    {

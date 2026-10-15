@@ -2,7 +2,7 @@ import DashboardAccountSetting from "@/components/dashboard/account-settings";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Dashboard Account Setting HOZN - Real Estate React Next js",
+   title: "Dashboard Account Setting Room Radar - Real Estate Platform",
 };
 const index = () => {
    return (

@@ -1,5 +1,5 @@
 {
-  "name": "HOZN-real-estate",
+  "name": "room-radar",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -47,5 +47,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "typescript": "^5"
-  }
+  },
+  "description": "Room Radar - Next-Gen Real Estate & Property Discovery Platform",
+  "author": "Harmanpreet Singh <contact@roomradar.com>"
 }

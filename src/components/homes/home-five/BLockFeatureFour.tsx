@@ -18,8 +18,8 @@ const BLockFeatureFour = () => {
                         <div className="d-flex align-items-center mt-75 md-mt-50">
                            <Image src={featureImg_1} alt="" className="rounded-circle avatar" />
                            <div className="ps-4">
-                              <h6 className="fs-22 mb-5">Alex Morgan.</h6>
-                              <span className="opacity-75">CEO & Head of HOZN Inc</span>
+                              <h6 className="fs-22 mb-5">Harmanpreet Singh</h6>
+                              <span className="opacity-75">Founder & CEO, Room Radar</span>
                            </div>
                         </div>
                      </div>
