@@ -16,9 +16,17 @@ const ProfileBody = () => {
    const [lastName, setLastName] = useState("");
    const [phoneNumber, setPhoneNumber] = useState("");
    const [about, setAbout] = useState("");
-   const token = localStorage.getItem("token"); 
+   const [token, setToken] = useState<string | null>(null);
 
    useEffect(() => {
+      if (typeof window !== "undefined") {
+         setToken(window.localStorage.getItem("token"));
+      }
+   }, []);
+
+   useEffect(() => {
+      if (!token) return;
+
       const fetchUserData = async () => {
          try {
             const res = await fetch("http://localhost:5000/api/profile", {
@@ -32,8 +40,8 @@ const ProfileBody = () => {
             }
 
             const userData = await res.json();
-            setName(userData.name);
-            setEmail(userData.email);
+            setName(userData.name || "");
+            setEmail(userData.email || "");
             setFirstName(userData.firstName || "");
             setLastName(userData.lastName || "");
             setPhoneNumber(userData.phoneNumber || "");
@@ -44,7 +52,7 @@ const ProfileBody = () => {
       };
 
       fetchUserData();
-   }, []);
+   }, [token]);
 
    const handleSave = async () => {
       try {
