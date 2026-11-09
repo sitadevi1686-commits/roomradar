@@ -52,7 +52,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "postcss": "^8.5.30",
-    "tailwindcss": "^4.3.3",
+    "tailwindcss": "3.4.17",
     "typescript": "^5"
   },
   "description": "Room Radar - Next-Gen Real Estate & Property Discovery Platform",
