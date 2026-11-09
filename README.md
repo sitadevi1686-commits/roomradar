@@ -15,8 +15,7 @@
 
 - **Founder & Chief Executive Officer (CEO):** Harmanpreet Singh
 - **Official Contact:** [contact@roomradar.com](mailto:contact@roomradar.com)
-- **Website:** [www.roomradar.com](https://www.roomradar.com)
-
+- **Website:** [roomradar-gdfa8yur9-hackathon-3eab.vercel.app](https://roomradar-gdfa8yur9-hackathon-3eab.vercel.app/)
 Room Radar is designed and spearheaded by **Harmanpreet Singh** with the vision of simplifying real estate discovery, property acquisition, rentals, and agent workflows through modern web technology and seamless user experiences.
 
 ---
